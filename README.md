@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven @stcdan2x
-- 🌱 I’m currently updating on React, Nextjs, Javascript and Nodejs...
+- 🌱 I’m currently updating on Angular, React, Nextjs, Javascript and Nodejs...
 - 💞️ I’m looking to collaborate on Frontend Web Development
 - 📫 How to reach me ... email me at: stcdan2x@gmail.com
 - Visit my demo sites for some of the projects: 
