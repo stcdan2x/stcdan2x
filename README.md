@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stcdan2x)](https://github.com/stcdan2x/github-readme-stats)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stcdan2x&show_icons=true&theme=great-gatsby)]
