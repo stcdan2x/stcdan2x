@@ -3,7 +3,7 @@
 stcdan2x/stcdan2x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### <p align=center>👋 Hi, I’m Steven @stcdan2x</p>
+### <p align=center>�<img src="https://raw.githubusercontent.com/joshuacerbito/joshuacerbito/main/assets/wave.gif">Hi, I’m Steven @stcdan2x</p>
 <p align=center>Full Stack Developer, Trading Specialist and Science Enthusiast</p>
 
 ---
