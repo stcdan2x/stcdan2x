@@ -7,4 +7,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stcdan2x&show_icons=true&theme=great-gatsby)](https://github.com/stcdan2x/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/stcdan2x)
+
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stcdan2x&hide=contribs,stars,issues&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/stcdan2x)
