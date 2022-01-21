@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align=center>👋 Hi, I’m Steven @stcdan2x</p>
 <p align=center>Full Stack Developer, Trading Specialist and Science Enthusiast</p>
 
-
+<p></p>
 
 
 <p align=center><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></p>
