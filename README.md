@@ -15,8 +15,11 @@ You can click the Preview link to take a look at your changes.
 <p align=center>| Corsair Obsidian 1000D | Valve Index | LG C1 48 </p>
 
 ---
+<p align=center><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></p>
+<p align=center>| Apple M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine |</p>
+<p align=center>| 32Gb Memory | 1Tb SSD | 16.2" Liquid Retina XDR |</p>
 
-
+---
 
 <p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&layout=compact&theme=vision-friendly-dark"></p>
 
