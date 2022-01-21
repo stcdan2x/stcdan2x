@@ -10,8 +10,14 @@ You can click the Preview link to take a look at your changes.
 <p align=center>Full Stack Developer, Trading Specialist and Science Enthusiast</p>
 
 
+
+
 <p align=center><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></p>
-<p align=center>AMD Ryzen 3950X | ROG X570 Crosshair VIII Formula | Nvidia GTX 2080ti | EVGA 2080ti FTW3 ULTRA | Vengeance LPX 4x16Gb | Seasonic Prime PX-1300 | Valve Index | LG C1 48 </p>
+<p align=center>| AMD Ryzen 3950X | ROG X570 Crosshair VIII Formula | EVGA 2080ti FTW3 ULTRA |</p>
+<p align=center>| Vengeance LPX 4x16Gb | Seasonic Prime PX-1300 | EK Classic P360 | EK Quantum Vector FTW3 |</p>
+<p align=center>| Corsair Obsidian 1000D | Valve Index | LG C1 48 </p>
+
+
 
 
 
