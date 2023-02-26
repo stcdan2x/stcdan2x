@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <p align=center><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"><img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white"></p>
   
 
-<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact&theme=vision-friendly-dark"></p>
+<p align=center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=vision-friendly-dark"></p>
 
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=stcdan2x&hide=contribs,stars,issues&count_private=true&show_icons=true&theme=great-gatsby"></p>
 
